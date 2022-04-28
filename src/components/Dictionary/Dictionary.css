@@ -1,0 +1,13 @@
+textarea{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+.result-field p{
+    word-wrap: break-word;
+    word-break: break-all;
+    padding: 1px;
+    margin: auto;
+    margin-bottom: auto;
+}
